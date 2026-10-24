@@ -1,0 +1,12 @@
+{
+  "name": "material-mission",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Material Mission: a Science Lagoon game for Grades 1–6 (Maldives).",
+  "scripts": {
+    "test": "node tests/playthrough.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.47.0"
+  }
+}
